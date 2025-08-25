@@ -1,5 +1,3 @@
-# Firebase Studio
+Finance Budget Tracking is a web app that helps users track expenses, set budgets, and visualize spending habits over time.
 
-This is a NextJS starter in Firebase Studio.
 
-To get started, take a look at src/app/page.tsx.
